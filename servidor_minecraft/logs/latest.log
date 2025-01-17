@@ -120,3 +120,20 @@
 [17Jan2025 19:45:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
 [17Jan2025 19:46:07.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:65439] logged in with entity id 67893 at (-443.9089783541445, 70.0, -2221.7443484037744)
 [17Jan2025 19:46:07.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[17Jan2025 19:57:11.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[17Jan2025 19:57:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[17Jan2025 19:58:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> ZZZZ
+[17Jan2025 19:58:06.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 19:58:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 19:58:30.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:49631] logged in with entity id 73601 at (-2588.037383309307, 67.0, 1971.8052482727348)
+[17Jan2025 19:58:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 20:00:25.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 fell from a high place
+[17Jan2025 20:00:25.677] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Jan2025 20:01:59.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 fell from a high place
+[17Jan2025 20:01:59.428] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Jan2025 20:02:14.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has made the advancement [tombstone.advancement.enchant_grave_key.title]
+[17Jan2025 20:02:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has reached the goal [tombstone.advancement.teleport_to_grave.title]
+[17Jan2025 20:03:18.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 20:03:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 20:04:11.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[17Jan2025 20:04:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
