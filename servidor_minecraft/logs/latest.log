@@ -61,3 +61,9 @@
 [17Jan2025 16:42:14.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:63594] logged in with entity id 2279 at (-443.6524331665965, 70.0, -2223.121860817454)
 [17Jan2025 16:42:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
 [17Jan2025 16:46:29.126] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2586, l='ServerLevel[world]', x=-381.35, y=68.00, z=-2346.70] died, message: 'Villager was slain by Zombie'
+[17Jan2025 16:52:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> ZZZ
+[17Jan2025 16:52:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> gracais }
+[17Jan2025 16:53:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> gracias
+[17Jan2025 17:07:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 was slain by Zombie
+[17Jan2025 17:07:38.301] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Jan2025 17:07:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Buenisima
