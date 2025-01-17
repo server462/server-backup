@@ -95,3 +95,11 @@
 [17Jan2025 18:16:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> metase a discord mier
 [17Jan2025 18:16:34.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> voy
 [17Jan2025 18:27:09.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> zz
+[17Jan2025 18:40:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> zzzzzzzz
+[17Jan2025 18:40:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> zzz
+[17Jan2025 18:41:06.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> zzzzzz
+[17Jan2025 18:48:41.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-482, y=72, z=-2257} BlockPos{x=-481, y=70, z=-2257}
+[17Jan2025 18:55:26.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 18:55:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 18:57:59.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62618] logged in with entity id 48514 at (-2498.5923232908517, 37.0, 1926.3019934571664)
+[17Jan2025 18:57:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
