@@ -58,3 +58,6 @@
 [17Jan2025 16:25:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
 [17Jan2025 16:32:56.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:62179] logged in with entity id 1362 at (-2621.3102977571007, 93.0, 2018.981208123271)
 [17Jan2025 16:32:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
+[17Jan2025 16:42:14.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:63594] logged in with entity id 2279 at (-443.6524331665965, 70.0, -2223.121860817454)
+[17Jan2025 16:42:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[17Jan2025 16:46:29.126] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2586, l='ServerLevel[world]', x=-381.35, y=68.00, z=-2346.70] died, message: 'Villager was slain by Zombie'
