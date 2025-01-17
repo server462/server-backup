@@ -72,3 +72,14 @@
 [17Jan2025 22:35:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
 [17Jan2025 22:41:46.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
 [17Jan2025 22:41:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
+[17Jan2025 23:04:01.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has made the advancement [Voluntary Exile]
+[17Jan2025 23:05:23.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 23:05:23.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 23:05:39.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:59341] logged in with entity id 34588 at (-2637.4540315855493, 94.0, 2079.5009075887942)
+[17Jan2025 23:05:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 23:19:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> zzz
+[17Jan2025 23:21:47.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[17Jan2025 23:21:47.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[17Jan2025 23:24:24.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:50943] logged in with entity id 42449 at (-391.2977088846667, 86.0, -2253.4347930326626)
+[17Jan2025 23:24:24.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[17Jan2025 23:35:17.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [tombstone.advancement.create_magic_tablet.title]
