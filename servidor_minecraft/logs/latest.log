@@ -62,3 +62,13 @@
 [17Jan2025 22:14:13.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:56441] logged in with entity id 12724 at (-2615.193975483497, 89.0, 2000.6806530161894)
 [17Jan2025 22:14:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
 [17Jan2025 22:16:42.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [Not Today, Thank You]
+[17Jan2025 22:34:39.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 22:34:39.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 22:34:46.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[17Jan2025 22:34:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[17Jan2025 22:35:03.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:50532] logged in with entity id 21764 at (-492.23670064943116, 73.0, -2230.73485885501)
+[17Jan2025 22:35:03.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[17Jan2025 22:35:19.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:57753] logged in with entity id 21880 at (-2542.564563095317, 64.0, 1951.8420432909847)
+[17Jan2025 22:35:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 22:41:46.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
+[17Jan2025 22:41:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
