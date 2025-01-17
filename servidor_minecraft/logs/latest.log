@@ -75,3 +75,16 @@
 [17Jan2025 17:51:51.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:63973] logged in with entity id 24056 at (-620.0718697271619, -22.0, -2287.334007188634)
 [17Jan2025 17:51:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
 [17Jan2025 17:55:49.774] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@a02f7a8[id=0bf73ec8-0b3e-31ea-8f48-378ee9dd1bd8,name=AlexanderOc07,properties={}] lost connection: Disconnected
+[17Jan2025 18:03:00.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:64749] logged in with entity id 26139 at (-2621.831203508516, 93.0, 2020.4243147296177)
+[17Jan2025 18:03:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
+[17Jan2025 18:08:16.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:59756] logged in with entity id 28493 at (-2571.9366959739336, 123.0, 2151.6479426973942)
+[17Jan2025 18:08:16.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 18:08:57.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 18:08:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 18:09:09.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:59812] logged in with entity id 28847 at (-2573.699999988079, 124.0, 2160.300000011921)
+[17Jan2025 18:09:09.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 18:09:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Por qué hizo todo allá?
+[17Jan2025 18:09:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> What?
+[17Jan2025 18:09:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> A tuko papi
+[17Jan2025 18:09:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Parece loco
+[17Jan2025 18:10:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> la granja de aldeanos la hice pegada a la orilla para no mover mucho a los aldeanos
