@@ -103,3 +103,12 @@
 [17Jan2025 18:55:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
 [17Jan2025 18:57:59.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62618] logged in with entity id 48514 at (-2498.5923232908517, 37.0, 1926.3019934571664)
 [17Jan2025 18:57:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 19:11:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> [name:"Casa ", x:-438, y:70, z:-2230, dim:minecraft:overworld]
+[17Jan2025 19:12:10.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 19:12:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 19:12:41.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:63436] logged in with entity id 54336 at (-2501.4645723237027, 37.0, 1917.9359943947409)
+[17Jan2025 19:12:41.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[17Jan2025 19:26:44.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[17Jan2025 19:26:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 19:28:09.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:64349] logged in with entity id 60389 at (-2570.802695323903, 68.0, 1963.502886946729)
+[17Jan2025 19:28:09.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
