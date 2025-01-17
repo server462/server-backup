@@ -70,3 +70,8 @@
 [17Jan2025 17:24:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> Plis jajaja
 [17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
 [17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[17Jan2025 17:51:38.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[17Jan2025 17:51:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[17Jan2025 17:51:51.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:63973] logged in with entity id 24056 at (-620.0718697271619, -22.0, -2287.334007188634)
+[17Jan2025 17:51:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[17Jan2025 17:55:49.774] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@a02f7a8[id=0bf73ec8-0b3e-31ea-8f48-378ee9dd1bd8,name=AlexanderOc07,properties={}] lost connection: Disconnected
