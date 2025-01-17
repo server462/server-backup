@@ -1388,3 +1388,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jan2025 17:24:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> Plis jajaja
 [17Jan2025 17:29:00.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 17:29:00.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 17:34:00.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 17:34:00.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[17Jan2025 17:39:00.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 17:39:00.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

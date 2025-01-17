@@ -68,3 +68,5 @@
 [17Jan2025 17:07:38.301] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
 [17Jan2025 17:07:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Buenisima
 [17Jan2025 17:24:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> Plis jajaja
+[17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[17Jan2025 17:37:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
