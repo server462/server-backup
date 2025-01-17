@@ -56,3 +56,5 @@
 [17Jan2025 16:22:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
 [17Jan2025 16:25:38.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
 [17Jan2025 16:25:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[17Jan2025 16:32:56.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:62179] logged in with entity id 1362 at (-2621.3102977571007, 93.0, 2018.981208123271)
+[17Jan2025 16:32:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
