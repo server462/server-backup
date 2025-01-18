@@ -7,3 +7,7 @@
 [18Jan2025 00:14:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
 [18Jan2025 00:14:09.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62929] logged in with entity id 72619 at (-2547.168471738837, 72.0, 1976.827914474159)
 [18Jan2025 00:14:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[18Jan2025 00:24:58.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[18Jan2025 00:24:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[18Jan2025 00:25:13.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:51584] logged in with entity id 83124 at (-514.0666315956532, 62.110764312744145, -1586.96587412624)
+[18Jan2025 00:25:13.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
