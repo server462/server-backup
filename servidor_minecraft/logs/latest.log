@@ -59,3 +59,5 @@
 [18Jan2025 03:42:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.easy_opening.title]
 [18Jan2025 03:42:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.discreet_search.title]
 [18Jan2025 04:05:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [Who is Cutting Onions?]
+[18Jan2025 04:38:09.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
+[18Jan2025 04:38:09.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
