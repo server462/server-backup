@@ -3149,9 +3149,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 02:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-18 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 02:15:01 +0000"
     },
     "done": true
   },

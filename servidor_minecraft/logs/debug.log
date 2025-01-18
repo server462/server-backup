@@ -1921,3 +1921,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jan2025 01:59:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
 [18Jan2025 02:00:04.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jan2025 02:00:04.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:05:04.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:05:04.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:07:44.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [commonnetworking, forge, jei, journeymap, journeymap_api, journeymap_webmap, minecraft, tombstone, usefulbackpacks, uteamcore]
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, jei:channel, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, minecraft:tombstone_channel, uteamcore:network, uteamcore:network_forge, worldinfo:world_id]
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:tombstone_channel' : Version test of 'PRESENT 9110' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'PRESENT 3' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Jan2025 02:07:44.973] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[18Jan2025 02:07:45.044] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[18Jan2025 02:07:45.113] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[18Jan2025 02:07:45.182] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[18Jan2025 02:07:45.258] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[18Jan2025 02:07:45.326] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[18Jan2025 02:07:45.395] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[18Jan2025 02:07:45.466] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[18Jan2025 02:07:45.535] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[18Jan2025 02:07:45.603] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[18Jan2025 02:07:45.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[18Jan2025 02:07:45.743] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[18Jan2025 02:07:45.811] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[18Jan2025 02:07:45.882] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[18Jan2025 02:07:45.950] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[18Jan2025 02:07:46.056] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[18Jan2025 02:07:46.124] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[18Jan2025 02:07:46.192] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[18Jan2025 02:07:46.260] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[18Jan2025 02:07:46.328] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[18Jan2025 02:07:46.844] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[18Jan2025 02:07:47.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:52509] logged in with entity id 133236 at (-2582.1784446936676, 122.0, 2140.633293840342)
+[18Jan2025 02:07:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[18Jan2025 02:10:04.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:10:04.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:15:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.talk_grave_guardian.title]
+[18Jan2025 02:15:04.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:15:04.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:15:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.trade_grave_guardian.title]
+[18Jan2025 02:17:49.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[18Jan2025 02:17:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[18Jan2025 02:20:04.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:20:04.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

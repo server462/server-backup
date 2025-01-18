@@ -45,3 +45,9 @@
 [18Jan2025 01:53:08.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has reached the goal [tombstone.advancement.choose_grave_type.title]
 [18Jan2025 01:59:21.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
 [18Jan2025 01:59:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[18Jan2025 02:07:47.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:52509] logged in with entity id 133236 at (-2582.1784446936676, 122.0, 2140.633293840342)
+[18Jan2025 02:07:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[18Jan2025 02:15:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.talk_grave_guardian.title]
+[18Jan2025 02:15:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.trade_grave_guardian.title]
+[18Jan2025 02:17:49.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[18Jan2025 02:17:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
