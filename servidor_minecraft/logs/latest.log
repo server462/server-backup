@@ -1,63 +1,49 @@
-[18Jan2025 00:05:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [Best Friends Forever]
-[18Jan2025 00:13:55.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[18Jan2025 00:13:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[18Jan2025 00:13:57.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
-[18Jan2025 00:13:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
-[18Jan2025 00:14:09.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:51483] logged in with entity id 72479 at (-2022.7437658240872, 62.11076431274414, 1162.8540903760631)
-[18Jan2025 00:14:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
-[18Jan2025 00:14:09.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62929] logged in with entity id 72619 at (-2547.168471738837, 72.0, 1976.827914474159)
-[18Jan2025 00:14:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[18Jan2025 00:24:58.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
-[18Jan2025 00:24:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
-[18Jan2025 00:25:13.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:51584] logged in with entity id 83124 at (-514.0666315956532, 62.110764312744145, -1586.96587412624)
-[18Jan2025 00:25:13.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
-[18Jan2025 00:32:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Suit Up]
-[18Jan2025 00:37:36.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
-[18Jan2025 00:37:36.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
-[18Jan2025 00:37:48.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:60350] logged in with entity id 89706 at (-2645.4650077109036, 88.0, 2076.1976680480284)
-[18Jan2025 00:37:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
-[18Jan2025 00:37:58.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[18Jan2025 00:37:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[18Jan2025 00:38:00.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
-[18Jan2025 00:38:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
-[18Jan2025 00:38:12.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:60366] logged in with entity id 89965 at (-2644.7136612517033, 88.0, 2065.819477322676)
-[18Jan2025 00:38:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
-[18Jan2025 00:38:12.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:64195] logged in with entity id 89966 at (-2574.6875, 94.5875, 2066.845662857118)
-[18Jan2025 00:38:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[18Jan2025 00:44:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 fell from a high place
-[18Jan2025 00:44:29.362] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[18Jan2025 00:47:01.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:50843] logged in with entity id 94431 at (-2525.8447172197257, 122.0, 2265.300000011921)
-[18Jan2025 00:47:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
-[18Jan2025 00:49:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.consume_soul.title]
-[18Jan2025 00:52:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [tombstone.advancement.vanishing.title]
-[18Jan2025 00:54:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was killed by magic while trying to escape Zombie
-[18Jan2025 00:54:06.481] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[18Jan2025 00:55:01.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90098, l='ServerLevel[world]', x=-2554.45, y=61.00, z=1957.31] died, message: 'Villager was slain by Zombie'
-[18Jan2025 01:01:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda fell from a high place
-[18Jan2025 01:01:53.448] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[18Jan2025 01:16:38.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
-[18Jan2025 01:16:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
-[18Jan2025 01:27:13.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[18Jan2025 01:27:13.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[18Jan2025 01:42:11.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:52315] logged in with entity id 121560 at (-348.3526085362338, 76.0, -2314.610691449203)
-[18Jan2025 01:42:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
-[18Jan2025 01:50:58.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [tombstone.advancement.ambush.title]
-[18Jan2025 01:53:08.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has reached the goal [tombstone.advancement.choose_grave_type.title]
-[18Jan2025 01:59:21.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
-[18Jan2025 01:59:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
-[18Jan2025 02:07:47.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:52509] logged in with entity id 133236 at (-2582.1784446936676, 122.0, 2140.633293840342)
-[18Jan2025 02:07:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[18Jan2025 02:15:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.talk_grave_guardian.title]
-[18Jan2025 02:15:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.trade_grave_guardian.title]
-[18Jan2025 02:17:49.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[18Jan2025 02:17:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[18Jan2025 02:32:38.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Hot Stuff]
-[18Jan2025 02:49:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has completed the challenge [Return to Sender]
-[18Jan2025 03:08:12.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has reached the goal [tombstone.advancement.fortuitous_militia.title]
-[18Jan2025 03:28:57.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
-[18Jan2025 03:28:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
-[18Jan2025 03:42:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.easy_opening.title]
-[18Jan2025 03:42:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.discreet_search.title]
-[18Jan2025 04:05:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [Who is Cutting Onions?]
-[18Jan2025 04:38:09.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
-[18Jan2025 04:38:09.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
+[18Jan2025 04:45:57.544] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[18Jan2025 04:45:57.546] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[18Jan2025 04:45:57.547] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Jan2025 04:45:57.730] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[18Jan2025 04:45:57.862] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-backup/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[18Jan2025 04:45:58.085] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18Jan2025 04:45:58.945] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Jan2025 04:45:58.950] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[18Jan2025 04:45:58.967] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[18Jan2025 04:45:59.009] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Jan2025 04:46:00.240] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[18Jan2025 04:46:00.420] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[18Jan2025 04:46:05.715] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[18Jan2025 04:46:05.716] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[18Jan2025 04:46:05.752] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[18Jan2025 04:46:06.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[18Jan2025 04:46:07.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.0.125 Target: null
+[18Jan2025 04:46:07.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18Jan2025 04:46:07.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: BETA Current: 9.1.10 Target: null
+[18Jan2025 04:46:07.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Jan2025 04:46:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[18Jan2025 04:46:07.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[18Jan2025 04:46:07.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.0.328 Target: null
+[18Jan2025 04:46:08.466] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Jan2025 04:46:08.503] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/server-backup/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at TRANSFORMER/minecraft@1.21/net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:95) ~[forge-1.21-51.0.33-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.util.DirectoryLock.create(DirectoryLock.java:41) ~[forge-1.21-51.0.33-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:417) ~[forge-1.21-51.0.33-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:350) ~[forge-1.21-51.0.33-server.jar:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.server.Main.main(Main.java:146) ~[forge-1.21-51.0.33-server.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:91) ~[fmlloader-1.21-51.0.33.jar!/:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:75) ~[fmlloader-1.21-51.0.33.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.1.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.1.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.1.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.1.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.1.jar!/:?]
+	at net.minecraftforge.bootstrap@2.1.3/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.3.jar!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.3.jar:2.1.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21-51.0.33-shim.jar:2.1.3]
