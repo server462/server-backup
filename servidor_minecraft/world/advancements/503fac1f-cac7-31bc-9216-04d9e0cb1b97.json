@@ -8,7 +8,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-01-17 23:43:32 +0000",
+      "minecraft:snowy_slopes": "2025-01-18 00:03:16 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-18 00:12:28 +0000",
       "minecraft:forest": "2025-01-11 02:29:49 +0000",
+      "minecraft:taiga": "2025-01-18 00:08:57 +0000",
       "minecraft:deep_ocean": "2025-01-17 23:32:46 +0000",
       "minecraft:deep_cold_ocean": "2025-01-17 23:43:52 +0000",
       "minecraft:eroded_badlands": "2025-01-11 23:05:08 +0000",
@@ -32,6 +35,7 @@
       "minecraft:stony_shore": "2025-01-11 02:32:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 00:39:38 +0000",
       "minecraft:deep_dark": "2025-01-13 04:41:58 +0000",
+      "minecraft:meadow": "2025-01-17 23:59:42 +0000",
       "minecraft:savanna": "2025-01-11 02:27:56 +0000",
       "minecraft:plains": "2025-01-11 02:17:23 +0000"
     },
@@ -3297,21 +3301,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-17 23:40:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-01-17 23:34:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-01-17 23:35:17 +0000"
     },
     "done": true
   },
@@ -3327,15 +3319,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-17 23:34:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-17 23:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 23:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-17 23:47:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_polished_granite": "2025-01-17 23:34:53 +0000"
+      "has_snowball": "2025-01-18 00:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-18 00:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 00:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-18 00:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-18 00:18:07 +0000"
     },
     "done": true
   },
