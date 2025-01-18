@@ -33,10 +33,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-11 01:41:14 +0000",
+      "minecraft:phantom": "2025-01-18 01:50:58 +0000",
       "minecraft:zombified_piglin": "2025-01-14 05:16:35 +0000",
       "minecraft:enderman": "2025-01-11 03:59:13 +0000",
       "minecraft:spider": "2025-01-10 19:43:58 +0000",
       "minecraft:zombie": "2025-01-11 02:27:44 +0000",
+      "minecraft:creeper": "2025-01-18 01:35:03 +0000",
       "minecraft:slime": "2025-01-14 02:34:31 +0000"
     },
     "done": false
@@ -2431,6 +2433,42 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-18 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-18 01:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-18 01:54:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 01:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 01:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 01:35:04 +0000"
     },
     "done": true
   },

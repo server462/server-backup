@@ -35,3 +35,13 @@
 [18Jan2025 00:55:01.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90098, l='ServerLevel[world]', x=-2554.45, y=61.00, z=1957.31] died, message: 'Villager was slain by Zombie'
 [18Jan2025 01:01:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda fell from a high place
 [18Jan2025 01:01:53.448] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[18Jan2025 01:16:38.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[18Jan2025 01:16:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[18Jan2025 01:27:13.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[18Jan2025 01:27:13.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[18Jan2025 01:42:11.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:52315] logged in with entity id 121560 at (-348.3526085362338, 76.0, -2314.610691449203)
+[18Jan2025 01:42:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[18Jan2025 01:50:58.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [tombstone.advancement.ambush.title]
+[18Jan2025 01:53:08.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has reached the goal [tombstone.advancement.choose_grave_type.title]
+[18Jan2025 01:59:21.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[18Jan2025 01:59:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
