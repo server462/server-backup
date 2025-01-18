@@ -29,3 +29,9 @@
 [18Jan2025 00:47:01.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:50843] logged in with entity id 94431 at (-2525.8447172197257, 122.0, 2265.300000011921)
 [18Jan2025 00:47:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
 [18Jan2025 00:49:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.consume_soul.title]
+[18Jan2025 00:52:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [tombstone.advancement.vanishing.title]
+[18Jan2025 00:54:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was killed by magic while trying to escape Zombie
+[18Jan2025 00:54:06.481] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[18Jan2025 00:55:01.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90098, l='ServerLevel[world]', x=-2554.45, y=61.00, z=1957.31] died, message: 'Villager was slain by Zombie'
+[18Jan2025 01:01:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda fell from a high place
+[18Jan2025 01:01:53.448] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success

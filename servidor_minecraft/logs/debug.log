@@ -1845,3 +1845,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jan2025 00:49:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.consume_soul.title]
 [18Jan2025 00:50:04.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jan2025 00:50:04.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 00:52:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [tombstone.advancement.vanishing.title]
+[18Jan2025 00:54:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was killed by magic while trying to escape Zombie
+[18Jan2025 00:54:06.476] [Server thread/DEBUG] [tombstone/]: A new grave of the player jeanpaulda was created at position [x:-2470, y:92, z:2351, dim:minecraft:overworld]
+[18Jan2025 00:54:06.481] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[18Jan2025 00:55:01.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90098, l='ServerLevel[world]', x=-2554.45, y=61.00, z=1957.31] died, message: 'Villager was slain by Zombie'
+[18Jan2025 00:55:04.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 00:55:04.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 01:00:04.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 01:00:04.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 01:01:53.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda fell from a high place
+[18Jan2025 01:01:53.447] [Server thread/DEBUG] [tombstone/]: A new grave of the player jeanpaulda was created at position [x:-2456, y:111, z:2470, dim:minecraft:overworld]
+[18Jan2025 01:01:53.448] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
