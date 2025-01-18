@@ -3264,6 +3264,12 @@
     },
     "done": true
   },
+  "tombstone:recipe/receptacle_of_familiar": {
+    "criteria": {
+      "has_ingredient": "2025-01-18 04:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-18 04:05:28 +0000"
