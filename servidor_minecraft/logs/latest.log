@@ -11,3 +11,21 @@
 [18Jan2025 00:24:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
 [18Jan2025 00:25:13.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:51584] logged in with entity id 83124 at (-514.0666315956532, 62.110764312744145, -1586.96587412624)
 [18Jan2025 00:25:13.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[18Jan2025 00:32:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Suit Up]
+[18Jan2025 00:37:36.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[18Jan2025 00:37:36.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[18Jan2025 00:37:48.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:60350] logged in with entity id 89706 at (-2645.4650077109036, 88.0, 2076.1976680480284)
+[18Jan2025 00:37:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
+[18Jan2025 00:37:58.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[18Jan2025 00:37:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[18Jan2025 00:38:00.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[18Jan2025 00:38:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
+[18Jan2025 00:38:12.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:60366] logged in with entity id 89965 at (-2644.7136612517033, 88.0, 2065.819477322676)
+[18Jan2025 00:38:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
+[18Jan2025 00:38:12.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:64195] logged in with entity id 89966 at (-2574.6875, 94.5875, 2066.845662857118)
+[18Jan2025 00:38:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[18Jan2025 00:44:29.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 fell from a high place
+[18Jan2025 00:44:29.362] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[18Jan2025 00:47:01.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:50843] logged in with entity id 94431 at (-2525.8447172197257, 122.0, 2265.300000011921)
+[18Jan2025 00:47:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
+[18Jan2025 00:49:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.consume_soul.title]
