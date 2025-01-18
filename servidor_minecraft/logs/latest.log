@@ -54,3 +54,5 @@
 [18Jan2025 02:32:38.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Hot Stuff]
 [18Jan2025 02:49:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has completed the challenge [Return to Sender]
 [18Jan2025 03:08:12.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has reached the goal [tombstone.advancement.fortuitous_militia.title]
+[18Jan2025 03:28:57.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[18Jan2025 03:28:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
