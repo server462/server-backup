@@ -1,49 +1,60 @@
-[18Jan2025 04:45:57.544] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[18Jan2025 04:45:57.546] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[18Jan2025 04:45:57.547] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[18Jan2025 04:45:57.730] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[18Jan2025 04:45:57.862] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-backup/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[18Jan2025 04:45:58.085] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[18Jan2025 04:45:58.945] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Jan2025 04:45:58.950] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[18Jan2025 04:45:58.967] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[18Jan2025 04:45:59.009] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Jan2025 04:46:00.240] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[18Jan2025 04:46:00.420] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[18Jan2025 04:46:05.715] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[18Jan2025 04:46:05.716] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[18Jan2025 04:46:05.752] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[18Jan2025 04:46:06.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[18Jan2025 04:46:07.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.0.125 Target: null
-[18Jan2025 04:46:07.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18Jan2025 04:46:07.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: BETA Current: 9.1.10 Target: null
-[18Jan2025 04:46:07.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Jan2025 04:46:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[18Jan2025 04:46:07.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[18Jan2025 04:46:07.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.0.328 Target: null
-[18Jan2025 04:46:08.466] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18Jan2025 04:46:08.503] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/server-backup/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at TRANSFORMER/minecraft@1.21/net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:95) ~[forge-1.21-51.0.33-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.util.DirectoryLock.create(DirectoryLock.java:41) ~[forge-1.21-51.0.33-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:417) ~[forge-1.21-51.0.33-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:350) ~[forge-1.21-51.0.33-server.jar:?]
-	at TRANSFORMER/minecraft@1.21/net.minecraft.server.Main.main(Main.java:146) ~[forge-1.21-51.0.33-server.jar:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:91) ~[fmlloader-1.21-51.0.33.jar!/:?]
-	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21-51.0.33/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:75) ~[fmlloader-1.21-51.0.33.jar!/:?]
-	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.1.jar!/:?]
-	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.1.jar!/:?]
-	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.1.jar!/:?]
-	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.1.jar!/:?]
-	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.1/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.1.jar!/:?]
-	at net.minecraftforge.bootstrap@2.1.3/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.3.jar!/:?]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.3.jar:2.1.3]
-	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.3.jar:2.1.3]
-	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.3.jar:2.1.3]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21-51.0.33-shim.jar:2.1.3]
+[19Jan2025 00:12:31.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[19Jan2025 00:12:31.784] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[19Jan2025 00:12:31.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Jan2025 00:12:31.910] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[19Jan2025 00:12:32.008] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-backup/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[19Jan2025 00:12:32.227] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19Jan2025 00:12:32.893] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Jan2025 00:12:32.897] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[19Jan2025 00:12:32.914] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[19Jan2025 00:12:32.939] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Jan2025 00:12:34.011] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[19Jan2025 00:12:34.142] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[19Jan2025 00:12:39.669] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[19Jan2025 00:12:39.669] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[19Jan2025 00:12:39.691] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19Jan2025 00:12:40.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[19Jan2025 00:12:40.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.0.125 Target: null
+[19Jan2025 00:12:40.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19Jan2025 00:12:41.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: BETA Current: 9.1.10 Target: null
+[19Jan2025 00:12:41.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Jan2025 00:12:41.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[19Jan2025 00:12:41.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[19Jan2025 00:12:41.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.0.328 Target: null
+[19Jan2025 00:12:42.087] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19Jan2025 00:12:44.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1399 recipes
+[19Jan2025 00:12:44.471] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1641 advancements
+[19Jan2025 00:12:45.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Jan2025 00:12:45.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Jan2025 00:12:45.245] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Jan2025 00:12:45.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Jan2025 00:12:45.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Jan2025 00:12:45.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Jan2025 00:12:45.295] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Jan2025 00:12:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Jan2025 00:12:49.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Jan2025 00:12:49.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jan2025 00:12:49.879] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 466 ms
+[19Jan2025 00:12:49.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.572s)! For help, type "help"
+[19Jan2025 00:12:49.891] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Jan2025 00:14:27.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:55422] logged in with entity id 168 at (-439.3200116121989, 74.0, -2224.35077356562)
+[19Jan2025 00:14:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
+[19Jan2025 00:15:08.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62520] logged in with entity id 928 at (-2533.3585928811435, 79.0, 1963.3845041807856)
+[19Jan2025 00:15:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[19Jan2025 00:20:16.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57340] logged in with entity id 3300 at (-445.28797172576077, 70.0, -2222.94583248942)
+[19Jan2025 00:20:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
+[19Jan2025 00:25:01.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/955, l='ServerLevel[world]', x=-2552.04, y=60.00, z=1957.64] died, message: 'Villager was slain by Zombie'
+[19Jan2025 00:25:11.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:52775] logged in with entity id 5318 at (-2456.1879271232724, 111.0, 2469.287341609099)
+[19Jan2025 00:25:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
+[19Jan2025 00:29:34.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-428, y=74, z=-2302} BlockPos{x=-427, y=72, z=-2302}
+[19Jan2025 00:35:58.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> maes pueden hablar por aqui un momento es para una tarea
+[19Jan2025 00:36:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> what??
+[19Jan2025 00:36:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Karilu> Okey
+[19Jan2025 00:36:41.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
+[19Jan2025 00:36:41.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
+[19Jan2025 00:37:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.use_home.title]
+[19Jan2025 00:40:25.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57533] logged in with entity id 14609 at (-448.82030524512453, 70.0, -2230.0501906023133)
+[19Jan2025 00:40:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game

@@ -3144,9 +3144,69 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "crying_obsidian": "2025-01-18 04:05:32 +0000"
+      "coded_trigger": "2025-01-18 00:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-18 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-18 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-18 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-18 02:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-18 02:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-18 02:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-18 02:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-18 02:49:23 +0000"
     },
     "done": true
   },
@@ -3168,45 +3228,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-01-18 02:37:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-18 03:39:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-01-18 02:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-01-18 02:37:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-01-18 03:39:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-01-18 04:05:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 00:49:28 +0000"
     },
     "done": true
   },
@@ -3222,75 +3252,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/trade_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 02:15:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-18 00:55:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/talk_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 02:15:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-01-18 02:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-18 00:55:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-18 04:05:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-18 04:05:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipe/receptacle_of_familiar": {
-    "criteria": {
-      "has_ingredient": "2025-01-18 04:15:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-18 04:05:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-01-18 03:39:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-01-18 02:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-18 00:55:24 +0000"
     },
     "done": true
   },
@@ -3309,6 +3273,48 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-01-18 03:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-18 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-18 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-18 04:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-18 04:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-18 04:05:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/receptacle_of_familiar": {
+    "criteria": {
+      "has_ingredient": "2025-01-18 04:15:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 00:37:41 +0000"
     },
     "done": true
   },
