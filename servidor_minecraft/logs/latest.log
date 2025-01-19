@@ -146,3 +146,7 @@
 [19Jan2025 03:55:27.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
 [19Jan2025 03:55:27.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2584, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
 [19Jan2025 03:55:27.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
+[19Jan2025 04:22:02.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:62720] logged in with entity id 66190 at (-2437.0836385077273, 109.0625, 2482.902536444877)
+[19Jan2025 04:22:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
+[19Jan2025 04:23:37.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[19Jan2025 04:23:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
