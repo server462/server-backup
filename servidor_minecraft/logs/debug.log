@@ -1613,3 +1613,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jan2025 02:52:49.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 02:52:49.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jan2025 02:53:53.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2535, y=78, z=1963} BlockPos{x=-2535, y=79, z=1964}
+[19Jan2025 02:57:49.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 02:57:49.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 03:01:23.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=87, z=2040} BlockPos{x=-2586, y=119, z=2144}
+[19Jan2025 03:01:23.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=87, z=2040} BlockPos{x=-2586, y=119, z=2144}
+[19Jan2025 03:02:49.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 03:02:49.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
