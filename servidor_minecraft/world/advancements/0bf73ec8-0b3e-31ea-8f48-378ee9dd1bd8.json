@@ -2926,5 +2926,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 00:57:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-19 00:54:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

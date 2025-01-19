@@ -1358,3 +1358,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jan2025 00:40:24.864] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
 [19Jan2025 00:40:25.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57533] logged in with entity id 14609 at (-448.82030524512453, 70.0, -2230.0501906023133)
 [19Jan2025 00:40:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
+[19Jan2025 00:42:49.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:42:49.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:44:21.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2555, y=75, z=1973} BlockPos{x=-2554, y=75, z=1973}
+[19Jan2025 00:44:23.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2556, y=75, z=1974} BlockPos{x=-2555, y=75, z=1974}
+[19Jan2025 00:45:10.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
+[19Jan2025 00:45:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
+[19Jan2025 00:47:49.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:47:49.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:47:52.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> enano esta en cerca de la casa d emacho?
+[19Jan2025 00:49:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> mae si
+[19Jan2025 00:49:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> en la granja de hierro
+[19Jan2025 00:50:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> venga un toque
+[19Jan2025 00:52:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> maee voy
+[19Jan2025 00:52:49.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:52:49.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:52:54.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> tiene yunque o para hacer uno??
+[19Jan2025 00:52:58.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> si
+[19Jan2025 00:53:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> ahi hay uno
+[19Jan2025 00:54:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ocupo que ponga esto en el yunque y ponga mi nombre consume 1 nivel
+[19Jan2025 00:54:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has made the advancement [tombstone.advancement.create_magic_tablet.title]
+[19Jan2025 00:54:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> sera que sirve jajaja
+[19Jan2025 00:55:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> se rompio el yunque? jaja
+[19Jan2025 00:55:32.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> a mi no me funciono pero me funciono otra parecida
+[19Jan2025 00:56:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> nombre invalido ??
+[19Jan2025 00:56:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> see
+[19Jan2025 00:56:30.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ponga el punto de spaw en esa cama
+[19Jan2025 00:56:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> use esa
+[19Jan2025 00:57:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has reached the goal [tombstone.advancement.use_home.title]
+[19Jan2025 00:57:06.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que putas jajajaj'
+[19Jan2025 00:57:30.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> de donde lo sacó?
+[19Jan2025 00:57:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ve esa si funciona pero la otra no y es del mod de tumbas
+[19Jan2025 00:57:49.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:57:49.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:57:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> jmm
+[19Jan2025 00:58:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> y vea esto
+[19Jan2025 00:58:12.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> diay ya reviso? porque al rato lo estamos haciendo mal o algo
+[19Jan2025 00:58:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> quita los encantamientos de los item y los hace libros
+[19Jan2025 00:58:34.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que pichudo jajaj
+[19Jan2025 00:58:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> sissi
+[19Jan2025 00:58:44.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> es de las tumbas tambien?
+[19Jan2025 00:58:48.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que buen mod jajaj
+[19Jan2025 00:58:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> si
+[19Jan2025 00:59:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> de hecho en mi casa tengo un bicho raro que hace trades
+[19Jan2025 00:59:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> si quier evamos y se devuelve con la tabla
+[19Jan2025 00:59:45.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que le da?
+[19Jan2025 00:59:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> items raros del mod
+[19Jan2025 01:00:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> por que no le subido mas d enivel
+[19Jan2025 01:00:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> ahorita que termine la granja esta le caigo jaja
+[19Jan2025 01:00:45.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> tome
+[19Jan2025 01:00:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> le queda 1 uso
+[19Jan2025 01:01:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> gracias Paulsillo
+[19Jan2025 01:01:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> eso lo puede tradear?
+[19Jan2025 01:01:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> se hace pero su puede recargar
+[19Jan2025 01:01:28.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
+[19Jan2025 01:01:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
+[19Jan2025 01:02:49.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 01:02:49.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 01:04:03.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13953, l='ServerLevel[world]', x=-2591.51, y=119.00, z=2138.00] died, message: 'Villager was slain by Zombie'
+[19Jan2025 01:06:08.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13956, l='ServerLevel[world]', x=-2590.64, y=119.56, z=2137.12] died, message: 'Villager was blown up by Creeper'
+[19Jan2025 01:07:49.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 01:07:49.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 01:12:49.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 01:12:49.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
