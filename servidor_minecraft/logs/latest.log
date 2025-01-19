@@ -143,3 +143,6 @@
 [19Jan2025 03:11:53.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:63314] logged in with entity id 49641 at (-2583.5730051344904, 119.0, 2133.6442323750593)
 [19Jan2025 03:11:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
 [19Jan2025 03:54:07.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56007, l='ServerLevel[world]', x=-2573.49, y=76.44, z=1950.50] died, message: 'Villager suffocated in a wall'
+[19Jan2025 03:55:27.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
+[19Jan2025 03:55:27.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2584, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
+[19Jan2025 03:55:27.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
