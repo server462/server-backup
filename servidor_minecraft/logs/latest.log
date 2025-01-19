@@ -129,3 +129,5 @@
 [19Jan2025 02:18:55.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:59434] logged in with entity id 37426 at (-2625.946742578146, 73.0, 1982.8908944641714)
 [19Jan2025 02:18:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
 [19Jan2025 02:24:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.fortuitous_militia.title]
+[19Jan2025 02:41:00.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was doomed to fall
+[19Jan2025 02:41:00.895] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
