@@ -150,3 +150,5 @@
 [19Jan2025 04:22:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
 [19Jan2025 04:23:37.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
 [19Jan2025 04:23:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[19Jan2025 04:37:17.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.create_familiar_receptacle.title]
+[19Jan2025 04:43:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.impregnated_bone_needle.title]
