@@ -107,3 +107,15 @@
 [19Jan2025 01:01:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
 [19Jan2025 01:04:03.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13953, l='ServerLevel[world]', x=-2591.51, y=119.00, z=2138.00] died, message: 'Villager was slain by Zombie'
 [19Jan2025 01:06:08.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13956, l='ServerLevel[world]', x=-2590.64, y=119.56, z=2137.12] died, message: 'Villager was blown up by Creeper'
+[19Jan2025 01:24:15.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25796, l='ServerLevel[world]', x=-2558.99, y=80.19, z=2018.40] died, message: 'Villager was slain by Zombie'
+[19Jan2025 01:24:29.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[19Jan2025 01:24:29.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[19Jan2025 01:26:47.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57941] logged in with entity id 30984 at (-412.8571858170799, 76.0, -2250.4460021546065)
+[19Jan2025 01:26:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
+[19Jan2025 01:32:21.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62863] logged in with entity id 32121 at (-2560.699999988079, 80.0, 2016.261525098885)
+[19Jan2025 01:32:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[19Jan2025 01:35:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [Enchanter]
+[19Jan2025 01:41:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has reached the goal [tombstone.advancement.strong_or_careful.title]
+[19Jan2025 01:41:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu was slain by Zombie
+[19Jan2025 01:41:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [tombstone.advancement.first_grave.title]
+[19Jan2025 01:41:35.777] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
