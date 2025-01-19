@@ -131,3 +131,8 @@
 [19Jan2025 02:24:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.fortuitous_militia.title]
 [19Jan2025 02:41:00.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was doomed to fall
 [19Jan2025 02:41:00.895] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[19Jan2025 02:48:39.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
+[19Jan2025 02:48:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
+[19Jan2025 02:48:49.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:63204] logged in with entity id 44640 at (-2528.987500011921, 68.0, 1959.0873471930454)
+[19Jan2025 02:48:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[19Jan2025 02:53:53.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2535, y=78, z=1963} BlockPos{x=-2535, y=79, z=1964}
