@@ -119,3 +119,10 @@
 [19Jan2025 01:41:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu was slain by Zombie
 [19Jan2025 01:41:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [tombstone.advancement.first_grave.title]
 [19Jan2025 01:41:35.777] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[19Jan2025 01:43:31.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[19Jan2025 01:43:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[19Jan2025 01:43:37.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
+[19Jan2025 01:43:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
+[19Jan2025 01:43:58.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Enchanter]
+[19Jan2025 01:53:13.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[19Jan2025 01:53:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
