@@ -126,3 +126,6 @@
 [19Jan2025 01:43:58.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Enchanter]
 [19Jan2025 01:53:13.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
 [19Jan2025 01:53:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
+[19Jan2025 02:18:55.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:59434] logged in with entity id 37426 at (-2625.946742578146, 73.0, 1982.8908944641714)
+[19Jan2025 02:18:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
+[19Jan2025 02:24:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.fortuitous_militia.title]
