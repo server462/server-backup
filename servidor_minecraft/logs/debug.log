@@ -1634,3 +1634,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Jan2025 04:40:54.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jan2025 04:40:54.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jan2025 04:41:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.combine_in_inventory.title]
+[20Jan2025 04:44:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda froze to death
+[20Jan2025 04:44:33.659] [Server thread/DEBUG] [tombstone/]: A new grave of the player jeanpaulda was created at position [x:-2460, y:116, z:2466, dim:minecraft:overworld]
+[20Jan2025 04:44:33.660] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[20Jan2025 04:44:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Increible
+[20Jan2025 04:45:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> y aqui voy a morir como 15 mas xd
+[20Jan2025 04:45:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Quitandole el puesto a Tómas
+[20Jan2025 04:45:54.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 04:45:54.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 04:47:27.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> macho us vio el bicho que esta en mi casa ??
+[20Jan2025 04:47:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> No
+[20Jan2025 04:47:53.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> puede venir un toque luego lo mando con tp para su casa
+[20Jan2025 04:48:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Voy
+[20Jan2025 04:48:05.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was slain by entity.tombstone.grave_guardian
+[20Jan2025 04:48:05.705] [Server thread/DEBUG] [tombstone/]: A new grave of the player jeanpaulda was created at position [x:-2460, y:111, z:2469, dim:minecraft:overworld]
+[20Jan2025 04:48:05.714] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[20Jan2025 04:48:14.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> donde anda paul? jaja
+[20Jan2025 04:48:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Ya con eso me dijo todo
+[20Jan2025 04:49:05.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> estoy en mi casa xd el bicho no hace nada amenos de que uno le de pero lo queria matar
+[20Jan2025 04:50:11.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[20Jan2025 04:50:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[20Jan2025 04:50:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.first_pray.title]
+[20Jan2025 04:50:54.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 04:50:54.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 04:52:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Paul pero no era en su casa?
+[20Jan2025 04:52:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> si si
+[20Jan2025 04:52:51.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Es que como lo ví aqui
