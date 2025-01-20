@@ -1563,3 +1563,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Jan2025 03:39:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Ah bueeeeno}
 [20Jan2025 03:40:54.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jan2025 03:40:54.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 03:45:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Papi este portal
+[20Jan2025 03:45:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Oh paulsillo ah
+[20Jan2025 03:45:54.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 03:45:54.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 03:47:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 was slain by Enderman
+[20Jan2025 03:47:00.868] [Server thread/DEBUG] [tombstone/]: A new grave of the player tomas2695 was created at position [x:-397, y:77, z:-2264, dim:minecraft:overworld]
+[20Jan2025 03:47:00.890] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[20Jan2025 03:47:03.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> JAJAAJJAAJA
+[20Jan2025 03:50:54.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 03:50:54.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 03:51:54.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
+[20Jan2025 03:51:54.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
