@@ -199,3 +199,7 @@
 [20Jan2025 04:55:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [tombstone.advancement.talk_grave_guardian.title]
 [20Jan2025 04:56:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [tombstone.advancement.create_magic_tablet.title]
 [20Jan2025 04:58:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has reached the goal [tombstone.advancement.use_home.title]
+[20Jan2025 05:03:54.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
+[20Jan2025 05:03:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
+[20Jan2025 05:05:19.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MachoLoco lost connection: Disconnected
+[20Jan2025 05:05:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco left the game
