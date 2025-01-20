@@ -3515,5 +3515,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/color_smoke_ball": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 03:13:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 03:13:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_smoke_ball": {
+    "criteria": {
+      "has_smoke_ball": "2025-01-20 03:11:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
