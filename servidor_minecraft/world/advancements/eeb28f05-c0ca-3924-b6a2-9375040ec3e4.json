@@ -3336,5 +3336,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/impregnated_bone_needle": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 04:43:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

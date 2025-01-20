@@ -1,154 +1,62 @@
-[19Jan2025 00:12:31.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[19Jan2025 00:12:31.784] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[19Jan2025 00:12:31.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Jan2025 00:12:31.910] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[19Jan2025 00:12:32.008] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-backup/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[19Jan2025 00:12:32.227] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[19Jan2025 00:12:32.893] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Jan2025 00:12:32.897] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[19Jan2025 00:12:32.914] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[19Jan2025 00:12:32.939] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jan2025 00:12:34.011] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[19Jan2025 00:12:34.142] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[19Jan2025 00:12:39.669] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[19Jan2025 00:12:39.669] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[19Jan2025 00:12:39.691] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[19Jan2025 00:12:40.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[19Jan2025 00:12:40.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.0.125 Target: null
-[19Jan2025 00:12:40.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Jan2025 00:12:41.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: BETA Current: 9.1.10 Target: null
-[19Jan2025 00:12:41.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Jan2025 00:12:41.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[19Jan2025 00:12:41.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[19Jan2025 00:12:41.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.0.328 Target: null
-[19Jan2025 00:12:42.087] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19Jan2025 00:12:44.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1399 recipes
-[19Jan2025 00:12:44.471] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1641 advancements
-[19Jan2025 00:12:45.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Jan2025 00:12:45.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Jan2025 00:12:45.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Jan2025 00:12:45.245] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Jan2025 00:12:45.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Jan2025 00:12:45.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Jan2025 00:12:45.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Jan2025 00:12:45.295] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Jan2025 00:12:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Jan2025 00:12:49.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Jan2025 00:12:49.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 00:12:49.879] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 466 ms
-[19Jan2025 00:12:49.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.572s)! For help, type "help"
-[19Jan2025 00:12:49.891] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Jan2025 00:14:27.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas2695[/192.168.195.227:55422] logged in with entity id 168 at (-439.3200116121989, 74.0, -2224.35077356562)
-[19Jan2025 00:14:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 joined the game
-[19Jan2025 00:15:08.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62520] logged in with entity id 928 at (-2533.3585928811435, 79.0, 1963.3845041807856)
-[19Jan2025 00:15:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[19Jan2025 00:20:16.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57340] logged in with entity id 3300 at (-445.28797172576077, 70.0, -2222.94583248942)
-[19Jan2025 00:20:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
-[19Jan2025 00:25:01.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/955, l='ServerLevel[world]', x=-2552.04, y=60.00, z=1957.64] died, message: 'Villager was slain by Zombie'
-[19Jan2025 00:25:11.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:52775] logged in with entity id 5318 at (-2456.1879271232724, 111.0, 2469.287341609099)
-[19Jan2025 00:25:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
-[19Jan2025 00:29:34.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-428, y=74, z=-2302} BlockPos{x=-427, y=72, z=-2302}
-[19Jan2025 00:35:58.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> maes pueden hablar por aqui un momento es para una tarea
-[19Jan2025 00:36:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas2695> what??
-[19Jan2025 00:36:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Karilu> Okey
-[19Jan2025 00:36:41.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
-[19Jan2025 00:36:41.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
-[19Jan2025 00:37:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.use_home.title]
-[19Jan2025 00:40:25.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57533] logged in with entity id 14609 at (-448.82030524512453, 70.0, -2230.0501906023133)
-[19Jan2025 00:40:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
-[19Jan2025 00:44:21.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2555, y=75, z=1973} BlockPos{x=-2554, y=75, z=1973}
-[19Jan2025 00:44:23.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2556, y=75, z=1974} BlockPos{x=-2555, y=75, z=1974}
-[19Jan2025 00:45:10.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
-[19Jan2025 00:45:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
-[19Jan2025 00:47:52.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> enano esta en cerca de la casa d emacho?
-[19Jan2025 00:49:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> mae si
-[19Jan2025 00:49:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> en la granja de hierro
-[19Jan2025 00:50:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> venga un toque
-[19Jan2025 00:52:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> maee voy
-[19Jan2025 00:52:54.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> tiene yunque o para hacer uno??
-[19Jan2025 00:52:58.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> si
-[19Jan2025 00:53:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> ahi hay uno
-[19Jan2025 00:54:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ocupo que ponga esto en el yunque y ponga mi nombre consume 1 nivel
-[19Jan2025 00:54:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has made the advancement [tombstone.advancement.create_magic_tablet.title]
-[19Jan2025 00:54:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> sera que sirve jajaja
-[19Jan2025 00:55:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> se rompio el yunque? jaja
-[19Jan2025 00:55:32.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> a mi no me funciono pero me funciono otra parecida
-[19Jan2025 00:56:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> nombre invalido ??
-[19Jan2025 00:56:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> see
-[19Jan2025 00:56:30.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ponga el punto de spaw en esa cama
-[19Jan2025 00:56:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> use esa
-[19Jan2025 00:57:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 has reached the goal [tombstone.advancement.use_home.title]
-[19Jan2025 00:57:06.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que putas jajajaj'
-[19Jan2025 00:57:30.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> de donde lo sacó?
-[19Jan2025 00:57:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> ve esa si funciona pero la otra no y es del mod de tumbas
-[19Jan2025 00:57:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> jmm
-[19Jan2025 00:58:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> y vea esto
-[19Jan2025 00:58:12.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> diay ya reviso? porque al rato lo estamos haciendo mal o algo
-[19Jan2025 00:58:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> quita los encantamientos de los item y los hace libros
-[19Jan2025 00:58:34.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que pichudo jajaj
-[19Jan2025 00:58:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> sissi
-[19Jan2025 00:58:44.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> es de las tumbas tambien?
-[19Jan2025 00:58:48.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que buen mod jajaj
-[19Jan2025 00:58:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> si
-[19Jan2025 00:59:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> de hecho en mi casa tengo un bicho raro que hace trades
-[19Jan2025 00:59:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> si quier evamos y se devuelve con la tabla
-[19Jan2025 00:59:45.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> que le da?
-[19Jan2025 00:59:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> items raros del mod
-[19Jan2025 01:00:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> por que no le subido mas d enivel
-[19Jan2025 01:00:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> ahorita que termine la granja esta le caigo jaja
-[19Jan2025 01:00:45.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> tome
-[19Jan2025 01:00:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> le queda 1 uso
-[19Jan2025 01:01:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> gracias Paulsillo
-[19Jan2025 01:01:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> eso lo puede tradear?
-[19Jan2025 01:01:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaulda> se hace pero su puede recargar
-[19Jan2025 01:01:28.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
-[19Jan2025 01:01:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
-[19Jan2025 01:04:03.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13953, l='ServerLevel[world]', x=-2591.51, y=119.00, z=2138.00] died, message: 'Villager was slain by Zombie'
-[19Jan2025 01:06:08.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13956, l='ServerLevel[world]', x=-2590.64, y=119.56, z=2137.12] died, message: 'Villager was blown up by Creeper'
-[19Jan2025 01:24:15.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25796, l='ServerLevel[world]', x=-2558.99, y=80.19, z=2018.40] died, message: 'Villager was slain by Zombie'
-[19Jan2025 01:24:29.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[19Jan2025 01:24:29.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[19Jan2025 01:26:47.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Karilu[/192.168.195.50:57941] logged in with entity id 30984 at (-412.8571858170799, 76.0, -2250.4460021546065)
-[19Jan2025 01:26:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu joined the game
-[19Jan2025 01:32:21.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:62863] logged in with entity id 32121 at (-2560.699999988079, 80.0, 2016.261525098885)
-[19Jan2025 01:32:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[19Jan2025 01:35:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [Enchanter]
-[19Jan2025 01:41:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has reached the goal [tombstone.advancement.strong_or_careful.title]
-[19Jan2025 01:41:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu was slain by Zombie
-[19Jan2025 01:41:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu has made the advancement [tombstone.advancement.first_grave.title]
-[19Jan2025 01:41:35.777] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[19Jan2025 01:43:31.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[19Jan2025 01:43:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[19Jan2025 01:43:37.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Karilu lost connection: Disconnected
-[19Jan2025 01:43:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karilu left the game
-[19Jan2025 01:43:58.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 has made the advancement [Enchanter]
-[19Jan2025 01:53:13.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas2695 lost connection: Disconnected
-[19Jan2025 01:53:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas2695 left the game
-[19Jan2025 02:18:55.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:59434] logged in with entity id 37426 at (-2625.946742578146, 73.0, 1982.8908944641714)
-[19Jan2025 02:18:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
-[19Jan2025 02:24:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has reached the goal [tombstone.advancement.fortuitous_militia.title]
-[19Jan2025 02:41:00.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda was doomed to fall
-[19Jan2025 02:41:00.895] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[19Jan2025 02:48:39.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaulda lost connection: Disconnected
-[19Jan2025 02:48:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda left the game
-[19Jan2025 02:48:49.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:63204] logged in with entity id 44640 at (-2528.987500011921, 68.0, 1959.0873471930454)
-[19Jan2025 02:48:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[19Jan2025 02:53:53.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2535, y=78, z=1963} BlockPos{x=-2535, y=79, z=1964}
-[19Jan2025 03:01:23.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=87, z=2040} BlockPos{x=-2586, y=119, z=2144}
-[19Jan2025 03:01:23.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=87, z=2040} BlockPos{x=-2586, y=119, z=2144}
-[19Jan2025 03:08:34.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[19Jan2025 03:08:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[19Jan2025 03:11:53.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:63314] logged in with entity id 49641 at (-2583.5730051344904, 119.0, 2133.6442323750593)
-[19Jan2025 03:11:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
-[19Jan2025 03:54:07.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56007, l='ServerLevel[world]', x=-2573.49, y=76.44, z=1950.50] died, message: 'Villager suffocated in a wall'
-[19Jan2025 03:55:27.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
-[19Jan2025 03:55:27.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2584, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
-[19Jan2025 03:55:27.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2585, y=63, z=1965} BlockPos{x=-2585, y=64, z=1965}
-[19Jan2025 04:22:02.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaulda[/192.168.195.187:62720] logged in with entity id 66190 at (-2437.0836385077273, 109.0625, 2482.902536444877)
-[19Jan2025 04:22:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda joined the game
-[19Jan2025 04:23:37.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
-[19Jan2025 04:23:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
-[19Jan2025 04:37:17.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.create_familiar_receptacle.title]
-[19Jan2025 04:43:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaulda has made the advancement [tombstone.advancement.impregnated_bone_needle.title]
+[20Jan2025 01:20:28.020] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[20Jan2025 01:20:28.024] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[20Jan2025 01:20:28.025] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Jan2025 01:20:28.361] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[20Jan2025 01:20:28.522] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-backup/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[20Jan2025 01:20:28.773] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Jan2025 01:20:29.917] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Jan2025 01:20:29.922] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[20Jan2025 01:20:29.941] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[20Jan2025 01:20:30.012] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 01:20:32.023] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[20Jan2025 01:20:32.164] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-backup/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[20Jan2025 01:20:39.488] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[20Jan2025 01:20:39.489] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[20Jan2025 01:20:39.521] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[20Jan2025 01:20:41.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[20Jan2025 01:20:41.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.0.125 Target: null
+[20Jan2025 01:20:41.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Jan2025 01:20:41.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: BETA Current: 9.1.10 Target: null
+[20Jan2025 01:20:41.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Jan2025 01:20:41.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[20Jan2025 01:20:41.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[20Jan2025 01:20:41.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.0.328 Target: null
+[20Jan2025 01:20:42.692] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20Jan2025 01:20:45.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1399 recipes
+[20Jan2025 01:20:46.130] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1641 advancements
+[20Jan2025 01:20:46.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[20Jan2025 01:20:46.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Jan2025 01:20:46.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Jan2025 01:20:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Jan2025 01:20:46.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Jan2025 01:20:47.107] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Jan2025 01:20:47.171] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Jan2025 01:20:47.171] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Jan2025 01:20:47.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Jan2025 01:20:47.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Jan2025 01:20:47.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Jan2025 01:20:47.900] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.195.83:55067] Disconnecting MODDED connection attempt: Server is still starting! Please wait before reconnecting.
+[20Jan2025 01:20:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Jan2025 01:20:53.010] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 01:20:53.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 01:20:53.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Jan2025 01:20:53.771] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[20Jan2025 01:20:54.132] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[20Jan2025 01:20:54.381] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2254 ms
+[20Jan2025 01:20:54.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.195s)! For help, type "help"
+[20Jan2025 01:20:54.393] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Jan2025 01:20:59.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MachoLoco[/192.168.195.83:55073] logged in with entity id 168 at (-2615.268226816618, 72.0, 1981.2848854964384)
+[20Jan2025 01:20:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco joined the game
+[20Jan2025 01:21:12.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:50688] logged in with entity id 477 at (-2582.343976770218, 119.0, 2133.0074213480057)
+[20Jan2025 01:21:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[20Jan2025 01:24:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Tiene los libros para el pico y el hacha?
+[20Jan2025 01:25:54.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Listo
+[20Jan2025 01:25:59.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> jajajja
+[20Jan2025 01:26:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> en el inventario no
+[20Jan2025 01:26:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> pero no se si en los cofres
+[20Jan2025 01:26:15.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> porque no me acuerdo si los tradee
+[20Jan2025 01:26:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Eficiencia 1
+[20Jan2025 01:26:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Y reparacion en un cofre
+[20Jan2025 01:26:43.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1170, l='ServerLevel[world]', x=-2555.70, y=108.00, z=2127.09] died, message: 'Villager was slain by Zombie'
+[20Jan2025 01:27:00.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> entonces no
+[20Jan2025 01:29:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MachoLoco has made the advancement [A Seedy Place]

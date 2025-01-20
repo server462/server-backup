@@ -2436,15 +2436,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_wheat": "2025-01-18 01:54:08 +0000"
+      "has_gunpowder": "2025-01-18 01:35:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_wheat": "2025-01-18 01:54:08 +0000"
+      "has_gunpowder": "2025-01-18 01:35:04 +0000"
     },
     "done": true
   },
@@ -2460,15 +2460,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_gunpowder": "2025-01-18 01:35:04 +0000"
+      "has_wheat": "2025-01-18 01:54:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_gunpowder": "2025-01-18 01:35:04 +0000"
+      "has_wheat": "2025-01-18 01:54:08 +0000"
     },
     "done": true
   },
