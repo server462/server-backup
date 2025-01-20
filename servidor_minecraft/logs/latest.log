@@ -70,3 +70,11 @@
 [20Jan2025 02:09:27.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10251, l='ServerLevel[world]', x=-2552.67, y=51.00, z=1957.52] died, message: 'Villager was slain by Zombie'
 [20Jan2025 02:09:28.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10246, l='ServerLevel[world]', x=-2551.46, y=52.00, z=1957.70] died, message: 'Villager was slain by Zombie'
 [20Jan2025 02:09:31.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10249, l='ServerLevel[world]', x=-2552.17, y=52.02, z=1957.51] died, message: 'Villager was slain by Zombie'
+[20Jan2025 02:12:03.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexanderOc07 lost connection: Disconnected
+[20Jan2025 02:12:03.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 left the game
+[20Jan2025 02:12:16.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexanderOc07[/192.168.195.244:51054] logged in with entity id 12331 at (-2532.1723929652035, 72.0, 1949.699999988079)
+[20Jan2025 02:12:16.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexanderOc07 joined the game
+[20Jan2025 02:29:58.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> mae
+[20Jan2025 02:30:02.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexanderOc07> por aqui tenemos lava?
+[20Jan2025 02:30:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Aqui no
+[20Jan2025 02:30:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MachoLoco> Por la casa de paul, sí
